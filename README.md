@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffariza-rafa.medium.com%2F10-web-development-fundamentals-you-should-know-e0d47c23a850&psig=AOvVaw3geMwPtF8k7XsrMW4ciXXt&ust=1703505341290000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCNxI-CqIMDFQAAAAAdAAAAABAD"  />
+  <img height="200" src="https://fariza-rafa.medium.com/10-web-development-fundamentals-you-should-know-e0d47c23a850"  />
 </div>
 
 ###
