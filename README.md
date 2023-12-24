@@ -7,12 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manav-mehta-05480622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manav-mehta-05480622a/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/manav310703" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/manav310703" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/manavmehta2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/manavmehta2031" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/manav2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/manav2031" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/manavmehta2031/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/manavmehta2031/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/manavmehvvah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/manavmehvvah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manav-mehta-05480622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manav-mehta-05480622a/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/manav310703" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manav310703" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/manavmehta2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manavmehta2031" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/manav2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manav2031" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/manavmehta2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manavmehta2031" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/manavmehvvah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manavmehvvah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manav2031&show_icons=true&locale=en" alt="manav2031" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manav2031&" alt="manav2031" /></p>
-
