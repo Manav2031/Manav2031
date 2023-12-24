@@ -24,7 +24,7 @@
 
 ###
 
-<p align="center">Programming Languages</p>
+<h3 align="center">Programming Languages</h3>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<p align="center">Frontend</p>
+<h3 align="center">Frontend</h3>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<p align="center">Backend</p>
+<h3 align="center">Backend</h3>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<p align="center">Databases</p>
+<h3 align="center">Databases</h3>
 
 ###
 
@@ -87,7 +87,7 @@
 
 ###
 
-<p align="center">ML libraries</p>
+<h3 align="center">ML libraries</h3>
 
 ###
 
@@ -100,7 +100,7 @@
 
 ###
 
-<p align="center">DevOps</p>
+<h3 align="center">DevOps</h3>
 
 ###
 
