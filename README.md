@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I am a Full Stack Web Developer and an AI ML Enthusiast.<br>I am a Third Year Computer Engineer student at PICT Pune.</p>
+<p align="center">I am a Full Stack Web Developer and an AI ML Enthusiast.<br>I am a Fourth Year Computer Engineer student at PICT Pune.</p>
 
 ###
 
